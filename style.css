@@ -1,0 +1,76 @@
+.title {
+    text-align: center;
+    font-size: 100px;
+    font-family: "Impact";
+}
+
+.subtitle {
+    text-align: center; /* not working */
+    font-size: 35px;
+    font-family: "Times New Roman"
+}
+
+.biography {
+    text-decoration: underline;
+}
+
+#coverPhoto {
+    width: 100%;
+    margin: left;
+}
+
+.intro {
+    text-align: left;
+    font-size: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: "Apple Chancery"
+}
+
+#intro2 {
+    text-align: left;
+    font-size: 18px;
+    font-family: "Trebuchet MS";
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+}
+
+.nice {
+    text-align: left;
+    font-size: 17px;
+    font-family: "Trebuchet MS";
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+div {
+    float: left;
+    width: 50%;
+}
+
+#socialMediafb {
+    width: 40px;
+}
+
+#socialMediaim {
+    width: 60px;
+}
+
+
+#socialMedialn {
+    width: 30px;
+}
+
+#exeteras {
+    width: 100%;
+}
+
+#Interests {
+    text-align: center;
+    font-size: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: "Apple Chancery"
+}
